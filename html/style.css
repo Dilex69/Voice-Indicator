@@ -1,0 +1,30 @@
+#voice-indicator {
+  position: absolute;
+  bottom: 30px; /* Increased from 20px to 30px to move it up */
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  }
+  
+  #voice-indicator svg {
+  width: 40px;
+  height: 40px;
+  fill: rgba(255, 255, 255, 0.582);
+  transition: fill 0.3s ease;
+  }
+  
+  #voice-indicator.talking svg {
+  fill: rgba(41, 175, 0, 0.877);
+  }
+  
+  #voice-indicator.radio svg {
+  fill: #851919da;
+  }
+  
+  .hidden {
+  display: none;
+  }
