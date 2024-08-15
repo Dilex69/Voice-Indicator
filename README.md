@@ -5,7 +5,7 @@
 - preview
 
 ![image](https://i.imgur.com/TQ7hZVt.png)
-![image](https://i.imgur.com/WN4rshn.png)
+![image](https://i.imgur.com/WyE0joI.png)
 ![image](https://i.imgur.com/MuVE5kF.png)
 
 # Dependency
